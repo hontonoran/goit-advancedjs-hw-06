@@ -17,4 +17,4 @@ function isWeekend(day: DaysOfWeek): boolean {
   return day === DaysOfWeek.Saturday || day === DaysOfWeek.Sunday;
 }
 
-export { DaysOfWeek, isWeekend };
+export {};
